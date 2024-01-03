@@ -11,7 +11,7 @@ This code is utilised alongside the Diffusers library to produce a fine-tuned st
 
 2. text_to_image_script.sh - script to create text-to-image fine-tuned model (uses metadata)
 
-3. dreambooth_model - jupyter notebook to create dreambooth fine-tuned model (does not use metadata, only images)
+3. dreambooth_model.ipynb - jupyter notebook to create dreambooth fine-tuned model (does not use metadata, only images)
 
 ## Author 
 
